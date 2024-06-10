@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="17" passed="17" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-08T15:58:49 BST" name="Suite" finished-at="2024-06-08T15:58:50 BST" duration-ms="501">
+    <groups>
+    </groups>
+    <test started-at="2024-06-08T15:58:49 BST" name="Test" finished-at="2024-06-08T15:58:50 BST" duration-ms="501">
+      <class name="Countries.Countryclass3">
+        <test-method signature="bur()[pri:0, instance:Countries.Countryclass3@4f83df68]" started-at="2024-06-08T15:58:50 BST" name="bur" finished-at="2024-06-08T15:58:50 BST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bur -->
+        <test-method signature="can()[pri:0, instance:Countries.Countryclass3@4f83df68]" started-at="2024-06-08T15:58:50 BST" name="can" finished-at="2024-06-08T15:58:50 BST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- can -->
+        <test-method signature="col()[pri:0, instance:Countries.Countryclass3@4f83df68]" started-at="2024-06-08T15:58:50 BST" name="col" finished-at="2024-06-08T15:58:50 BST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- col -->
+        <test-method signature="ger()[pri:0, instance:Countries.Countryclass3@4f83df68]" started-at="2024-06-08T15:58:50 BST" name="ger" finished-at="2024-06-08T15:58:50 BST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ger -->
+        <test-method signature="ind()[pri:0, instance:Countries.Countryclass3@4f83df68]" started-at="2024-06-08T15:58:50 BST" name="ind" finished-at="2024-06-08T15:58:50 BST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ind -->
+        <test-method signature="ire()[pri:0, instance:Countries.Countryclass3@4f83df68]" started-at="2024-06-08T15:58:50 BST" name="ire" finished-at="2024-06-08T15:58:50 BST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ire -->
+        <test-method signature="mex()[pri:0, instance:Countries.Countryclass3@4f83df68]" started-at="2024-06-08T15:58:50 BST" name="mex" finished-at="2024-06-08T15:58:50 BST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mex -->
+      </class> <!-- Countries.Countryclass3 -->
+      <class name="Countries.Countryclass2">
+        <test-method signature="bur()[pri:0, instance:Countries.Countryclass2@6cf0e0ba]" started-at="2024-06-08T15:58:50 BST" name="bur" finished-at="2024-06-08T15:58:50 BST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bur -->
+        <test-method signature="col()[pri:0, instance:Countries.Countryclass2@6cf0e0ba]" started-at="2024-06-08T15:58:50 BST" name="col" finished-at="2024-06-08T15:58:50 BST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- col -->
+        <test-method signature="ger()[pri:0, instance:Countries.Countryclass2@6cf0e0ba]" started-at="2024-06-08T15:58:50 BST" name="ger" finished-at="2024-06-08T15:58:50 BST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ger -->
+        <test-method signature="ind()[pri:0, instance:Countries.Countryclass2@6cf0e0ba]" started-at="2024-06-08T15:58:50 BST" name="ind" finished-at="2024-06-08T15:58:50 BST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ind -->
+        <test-method signature="ire()[pri:0, instance:Countries.Countryclass2@6cf0e0ba]" started-at="2024-06-08T15:58:50 BST" name="ire" finished-at="2024-06-08T15:58:50 BST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ire -->
+        <test-method signature="mex()[pri:0, instance:Countries.Countryclass2@6cf0e0ba]" started-at="2024-06-08T15:58:50 BST" name="mex" finished-at="2024-06-08T15:58:50 BST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mex -->
+      </class> <!-- Countries.Countryclass2 -->
+      <class name="Countries.Countryclass1">
+        <test-method signature="bur()[pri:0, instance:Countries.Countryclass1@1a482e36]" started-at="2024-06-08T15:58:50 BST" name="bur" finished-at="2024-06-08T15:58:50 BST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bur -->
+        <test-method signature="ger()[pri:0, instance:Countries.Countryclass1@1a482e36]" started-at="2024-06-08T15:58:50 BST" name="ger" finished-at="2024-06-08T15:58:50 BST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ger -->
+        <test-method signature="ind()[pri:0, instance:Countries.Countryclass1@1a482e36]" started-at="2024-06-08T15:58:50 BST" name="ind" finished-at="2024-06-08T15:58:50 BST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ind -->
+        <test-method signature="mex()[pri:0, instance:Countries.Countryclass1@1a482e36]" started-at="2024-06-08T15:58:50 BST" name="mex" finished-at="2024-06-08T15:58:50 BST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mex -->
+      </class> <!-- Countries.Countryclass1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
